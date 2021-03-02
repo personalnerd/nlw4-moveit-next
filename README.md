@@ -14,6 +14,7 @@ _A trilha original utiliza apenas CSS, mas eu adicionei o SASS, porque é um cam
 ## Projeto
 
 O move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
 _Não fiz nenhuma alteração extra além do apresentado durante a #NLW (somente a adição do SASS). Minha ideia é converter o projeto em VUE então fazer as alterações e melhorias._
 
 ## Meu deploy
